@@ -1290,3 +1290,6 @@ If something goes wrong, restore snapshot → create new volume → attach again
 ---
 
 Would you like me to now show the **entire process of creating a snapshot, restoring it as a new volume, and attaching it to another instance** (real backup/restore scenario — directly follows this concept in both exam and real life)?
+same region different avaliability zone itey direct attach
+different region itey copy snap shot
+snapshot can be shaed to anyone
