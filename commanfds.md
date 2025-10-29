@@ -80,3 +80,6 @@ sudo systemctl status httpd
 ---
 
 Would you like me to show **real AWS EC2 example steps** for installing Apache, starting it, and making it persistent with `chkconfig` (and modern way `systemctl`)?
+aws s3 ls --debug
+aws configure --profile uat ---yo get account details of another account
+aws s3 ls --profile uat
